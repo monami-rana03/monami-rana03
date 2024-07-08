@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img height="340" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+</div>
 
+###
 
 <h2 align="left">Hi 👋! My name is Monami Rana and I'm a Tech Enthusiast.</h2>
 
@@ -99,10 +103,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=monami-rana03&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="340" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
-</div>
-
-###
